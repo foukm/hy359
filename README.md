@@ -38,7 +38,7 @@ The system supports four different roles:
 
 - **Backend:** Java , Java Servlets, REST APIs  
 - **Database:** MySQL 
-- **Frontend:** HTML5, CSS3, JavaScript 
+- **Frontend:** HTML5, CSS3, JavaScript, JSP
 - **Visualization:** Google Charts (Admin dashboard)  
 - **Maps (optional extension):** OpenStreetMap / Google Maps APIs  
 - **Messaging:** Simple database-backed chat system, AJAX polling    
