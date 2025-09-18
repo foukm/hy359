@@ -1,0 +1,5 @@
+com\mycompany\spark_pets\Pet.class
+com\mycompany\spark_pets\PetsRESTAPI.class
+database\DB_Connection.class
+database\EditPetsTable.class
+com\mycompany\spark_pets\StandardResponse.class
